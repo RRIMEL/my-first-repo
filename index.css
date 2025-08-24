@@ -7,8 +7,17 @@ h3{
 
 }
 .biya{
-    margin: 10px;
+    margin: 10px 10px 40px;
     border: 4px dotted turquoise;
     box-shadow: 5px 5px 5px turquoise;
 
+}
+.liya{
+    margin: 10px 10px 40px;
+    border: 4px dotted rgb(11, 219, 91);
+    box-shadow: 5px 5px 5px rgb(23, 157, 68);
+}
+div{
+    text-align: center;
+    padding-bottom: 30px;
 }
