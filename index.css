@@ -1,0 +1,14 @@
+h3{
+    text-align: center ;text-decoration: underline;
+}
+.tiya{margin: 10px 10px 40px;
+    border: 4px dotted blueviolet;
+    box-shadow: 5px 5px 5px blueviolet;
+
+}
+.biya{
+    margin: 10px;
+    border: 4px dotted turquoise;
+    box-shadow: 5px 5px 5px turquoise;
+
+}
